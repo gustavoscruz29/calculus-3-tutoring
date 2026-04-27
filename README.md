@@ -29,10 +29,10 @@ Each directory contains slides and may also include additional resources such as
 - Power series and function approximation  
 - Taylor formula and applications  
 - Taylor and Maclaurin series  
-- Function approximation in numerical algorithms  
-- Computational error estimation  
 
 ### Unit 2
+- Function approximation in numerical algorithms  
+- Computational error estimation  
 - Partial derivatives and gradient  
 - Critical points and function optimization  
 - Constrained optimization (Lagrange multipliers)  
